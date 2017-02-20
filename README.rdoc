@@ -1,1 +1,3 @@
-my first RSpec Test tutorial; Zombie
+RSpec Testing:
+
+Level 1 - Introduction (Zombie)
